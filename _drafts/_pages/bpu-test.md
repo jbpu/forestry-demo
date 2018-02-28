@@ -15,14 +15,17 @@ partners:
 show_staff: true
 show_news: true
 services:
-- heading: Sewer
-  description: Waste Waste Treament
-  icon: "/uploads/2018/02/17/bridge3.jpg"
 - heading: Electric
   description: 'Transmission and Distribution of Electricity '
   icon: "/uploads/2018/02/25/car.jpg"
 - heading: Water
   description: Water Distribution
   icon: "/uploads/2018/02/17/bridge.jpg"
-description: Publicly Operated Utility Company located in Jamestown, NY
+- heading: Sewer
+  description: Waste Waste Treament
+  icon: "/uploads/2018/02/17/bridge3.jpg"
+- heading: Sanitation
+  description: Solid Waste and Recyclable Collection
+  icon: "/uploads/2018/02/17/building3.jpg"
+description: <img src="/uploads/2018/02/17/building.jpg">
 ---
