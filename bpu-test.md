@@ -28,6 +28,9 @@ services:
   description: Solid Waste and Recyclable Collection
   icon: "/uploads/2018/02/17/building3.jpg"
 description: <img src="/uploads/2018/02/17/building.jpg">
+menu:
+  navigation:
+    weight: 5
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras euismod blandit hendrerit. Ut posuere sem lorem, sed facilisis ante dapibus viverra. Donec mattis, eros eget eleifend consectetur, eros nisl efficitur eros, sit amet dignissim dui odio eu ligula. Etiam vel eros et lorem pulvinar sagittis eu ut libero. Morbi scelerisque lectus sed odio elementum, non congue magna viverra. Mauris semper condimentum hendrerit. Donec suscipit dictum purus, quis condimentum mi. Nam lacus enim, ultricies a malesuada at, laoreet ut purus. Suspendisse potenti.
 
